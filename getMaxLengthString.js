@@ -30,7 +30,7 @@ function getMaxLengthString(arrayOfString) {
   
 
 
-  // }
+  }
 
 
   
